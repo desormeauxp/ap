@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP CSP]({{ "/" | relative_url }})
 
-Harvard University\\
+Dutchtown High School\\
 2018–2019
